@@ -3,3 +3,5 @@
 *.cas binary
 *.tga binary
 *.dds binary
+*.spr binary
+*.png binary
